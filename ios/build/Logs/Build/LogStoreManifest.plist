@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>CA226411-9D80-4F88-902A-7758954A5A2D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA226411-9D80-4F88-902A-7758954A5A2D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ToDoAppNormal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ToDoAppNormal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ToDoAppNormal with scheme ToDoAppNormal and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564826526.84997404</real>
+			<key>timeStoppedRecording</key>
+			<real>564826528.79377902</real>
+			<key>title</key>
+			<string>Building project ToDoAppNormal with scheme ToDoAppNormal and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CA226411-9D80-4F88-902A-7758954A5A2D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
